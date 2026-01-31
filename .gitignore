@@ -1,0 +1,3 @@
+# Ignorar el archivo que contiene la API Key
+environment/environment.dev.ts
+node_modules/
